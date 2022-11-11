@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisrosa
 
 - Contact
-- https://keybase.io/chrisrosa
-- https://mastodon.social/@chrisrosa
+- <a rel="me" href="https://mastodon.social/@chrisrosa">https://mastodon.social/@chrisrosa</a>
 - https://twitter.com/chrisrosa
+- https://keybase.io/chrisrosa
